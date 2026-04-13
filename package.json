@@ -1,0 +1,18 @@
+{
+  "name": "interpolate",
+  "version": "1.0.0",
+  "description": "Interpolacao linear, cubica e curvas de Bezier em TypeScript puro",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["interpolate", "lerp", "cubic", "bezier", "easing"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
