@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/interpolate/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/interpolate/actions)
+[![License](https://img.shields.io/github/license/Tox1469/interpolate?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/interpolate?style=flat-square)](https://github.com/Tox1469/interpolate/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/interpolate?style=flat-square)](https://github.com/Tox1469/interpolate/stargazers)
+
+---
+
 # interpolate
 
 Interpolacao linear, cubica (Catmull-Rom) e curvas de Bezier em TypeScript puro.
